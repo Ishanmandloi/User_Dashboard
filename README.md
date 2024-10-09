@@ -1,4 +1,5 @@
-# This dashboard, created using Power BI, provides an in-depth view of the operational performance of a company's aspirant and employer activities. It serves as a valuable tool for non-technical stakeholders to make data-driven decisions by visualizing key metrics related to aspirant and employer engagement over time.
+# 
+This dashboard, created using Power BI, provides an in-depth view of the operational performance of a company's aspirant and employer activities. It serves as a valuable tool for non-technical stakeholders to make data-driven decisions by visualizing key metrics related to aspirant and employer engagement over time.
 The dashboard is divided into two main sections:
 1.	Aspirant Dashboard: Focuses on metrics related to job seekers.
 2.	Employer Dashboard: Focuses on metrics related to companies or individuals offering job opportunities.
