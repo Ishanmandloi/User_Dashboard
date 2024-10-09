@@ -5,7 +5,7 @@ The dashboard is divided into two main sections:
 2.	Employer Dashboard: Focuses on metrics related to companies or individuals offering job opportunities.
 Each section includes real-time data tracking and comparisons for the current day, month, and year, allowing stakeholders to monitor growth and trends efficiently.
 
-Data Source and Real-Time Update
+Data Source and Real-Time Update:
 The data used in this dashboard was directly obtained from the company's internal database, ensuring accuracy and real-time updates. Necessary tables were imported directly from the database, allowing seamless integration and visualization in Power BI.
 To enhance operational efficiency, the dashboard facilitates real-time updates by automating the data refresh process through the creation of an on-premise gateway. This gateway ensures that the latest data is always available, allowing the dashboard to automatically refresh the underlying data at scheduled intervals.
 By connecting directly to the database and enabling automated refresh through the on-premise gateway, the dashboard remains up-to-date, providing stakeholders with accurate, real-time insights for decision-making.
